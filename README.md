@@ -43,4 +43,8 @@
   <p align='right'>⚪ I will read</p>
 </div>
   
+  ![Snake animation](https://github.com/joaogoncalvees/joaogoncalvees/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
+  
 ##
