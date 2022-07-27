@@ -33,15 +33,6 @@
   
 ##
   
-### My readings 📚:
-  
-<div>
-  <p>⚪ Data Structures and Algorithms in Python - Wiley</p>
-  <p>⚪ Clean Code - Prentice Hall</p>
-  <p align='right'>🟢 I've already read it</p>
-  <p align='right'>🟡 I'm reading</p>
-  <p align='right'>⚪ I will read</p>
-</div>
   
   ![Snake animation](https://github.com/joaogoncalvees/joaogoncalvees/blob/output/github-contribution-grid-snake.svg)
  
